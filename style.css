@@ -1,0 +1,16 @@
+.bg-red-600{
+
+background-color: red;
+}
+
+.m-4{
+
+    margin: 16px ;
+}
+
+
+.p-4{
+
+    padding: 16px;
+}
+/* 0= px , 1 = 4px , 2 =8 px , 3 = 12px, 4= 16px */
